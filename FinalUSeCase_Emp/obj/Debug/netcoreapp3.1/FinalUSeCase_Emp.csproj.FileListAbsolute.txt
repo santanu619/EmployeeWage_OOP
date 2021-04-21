@@ -1,0 +1,13 @@
+C:\Users\SANTANU\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\bin\Debug\netcoreapp3.1\FinalUSeCase_Emp.exe
+C:\Users\SANTANU\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\bin\Debug\netcoreapp3.1\FinalUSeCase_Emp.deps.json
+C:\Users\SANTANU\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\bin\Debug\netcoreapp3.1\FinalUSeCase_Emp.runtimeconfig.json
+C:\Users\SANTANU\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\bin\Debug\netcoreapp3.1\FinalUSeCase_Emp.runtimeconfig.dev.json
+C:\Users\SANTANU\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\bin\Debug\netcoreapp3.1\FinalUSeCase_Emp.dll
+C:\Users\SANTANU\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\bin\Debug\netcoreapp3.1\FinalUSeCase_Emp.pdb
+C:\Users\SANTANU\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\obj\Debug\netcoreapp3.1\FinalUSeCase_Emp.csprojAssemblyReference.cache
+C:\Users\SANTANU\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\obj\Debug\netcoreapp3.1\FinalUSeCase_Emp.AssemblyInfoInputs.cache
+C:\Users\SANTANU\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\obj\Debug\netcoreapp3.1\FinalUSeCase_Emp.AssemblyInfo.cs
+C:\Users\SANTANU\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\obj\Debug\netcoreapp3.1\FinalUSeCase_Emp.csproj.CoreCompileInputs.cache
+C:\Users\SANTANU\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\obj\Debug\netcoreapp3.1\FinalUSeCase_Emp.dll
+C:\Users\SANTANU\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\obj\Debug\netcoreapp3.1\FinalUSeCase_Emp.pdb
+C:\Users\SANTANU\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\obj\Debug\netcoreapp3.1\FinalUSeCase_Emp.genruntimeconfig.cache

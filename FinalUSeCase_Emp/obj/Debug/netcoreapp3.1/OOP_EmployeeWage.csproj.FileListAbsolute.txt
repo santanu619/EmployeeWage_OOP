@@ -1,0 +1,13 @@
+C:\Users\SANTANU\Desktop\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\bin\Debug\netcoreapp3.1\OOP_EmployeeWage.exe
+C:\Users\SANTANU\Desktop\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\bin\Debug\netcoreapp3.1\OOP_EmployeeWage.deps.json
+C:\Users\SANTANU\Desktop\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\bin\Debug\netcoreapp3.1\OOP_EmployeeWage.runtimeconfig.json
+C:\Users\SANTANU\Desktop\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\bin\Debug\netcoreapp3.1\OOP_EmployeeWage.runtimeconfig.dev.json
+C:\Users\SANTANU\Desktop\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\bin\Debug\netcoreapp3.1\OOP_EmployeeWage.dll
+C:\Users\SANTANU\Desktop\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\bin\Debug\netcoreapp3.1\OOP_EmployeeWage.pdb
+C:\Users\SANTANU\Desktop\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\obj\Debug\netcoreapp3.1\OOP_EmployeeWage.csprojAssemblyReference.cache
+C:\Users\SANTANU\Desktop\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\obj\Debug\netcoreapp3.1\OOP_EmployeeWage.AssemblyInfoInputs.cache
+C:\Users\SANTANU\Desktop\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\obj\Debug\netcoreapp3.1\OOP_EmployeeWage.AssemblyInfo.cs
+C:\Users\SANTANU\Desktop\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\obj\Debug\netcoreapp3.1\OOP_EmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\SANTANU\Desktop\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\obj\Debug\netcoreapp3.1\OOP_EmployeeWage.dll
+C:\Users\SANTANU\Desktop\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\obj\Debug\netcoreapp3.1\OOP_EmployeeWage.pdb
+C:\Users\SANTANU\Desktop\source\repos\FinalUSeCase_Emp\FinalUSeCase_Emp\obj\Debug\netcoreapp3.1\OOP_EmployeeWage.genruntimeconfig.cache
